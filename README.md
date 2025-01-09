@@ -29,7 +29,6 @@ Last section describes the spatial variablity of the AQ in particular districts 
 
 [Opensource Database - New York Air Quality (Kaggle)](https://www.kaggle.com/datasets/fatmanur12/new-york-air-quality/data)
 
-
 ## License
 
 This dataset was sourced from publicly available New York City air quality and health data, provided by various governmental and environmental organizations.
