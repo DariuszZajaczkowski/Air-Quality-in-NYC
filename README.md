@@ -7,7 +7,6 @@ Due to licensed access to PowerBi web resources for private individuals, the rep
 
 This dataset allows for the examination of health effects linked to air pollution, organized by geographic regions and time frames. The way the data is grouped enhances its accessibility for analysis and interpretation
 
-
 ## Section I - General Overview of NYC Air Quality
 Section I presents first insight over the problem with air quality(AQ) conditions in New York City. First page of the report tries to desribe the variablity of the days with particular Air Quality (Bad, Moderate and Good) over the years. 
 
@@ -26,11 +25,9 @@ Last section describes the spatial variablity of the AQ in particular districts 
 
 ![str1-images-2](https://github.com/user-attachments/assets/7d343cbe-ba95-4a7e-abc0-8df2339b2d90)
 ## Documentation
-
 [Opensource Database - New York Air Quality (Kaggle)](https://www.kaggle.com/datasets/fatmanur12/new-york-air-quality/data)
 
 ## License
-
 This dataset was sourced from publicly available New York City air quality and health data, provided by various governmental and environmental organizations.
 
 Owner of prepraed dataset: Fatmanur Sarı 
