@@ -8,7 +8,7 @@ Due to licensed access to PowerBi web resources for private individuals, the rep
 This dataset allows for the examination of health effects linked to air pollution, organized by geographic regions and time frames. The way the data is grouped enhances its accessibility for analysis and interpretation
 
 ## Section I - General Overview of NYC Air Quality
-Section I presents first insight over the problem with air quality(AQ) conditions in New York City. First page of the report tries to desribe the variablity of the days with particular Air Quality (Bad, Moderate and Good) over the years. 
+Section I presents first insight over the problem with air quality (AQ) conditions in New York City. First page of the report tries to desribe the variablity of the days with particular Air Quality (Bad, Moderate and Good) over the years. 
 
 The report also included the long-term variablity of average AQ in the analyzed period based on the Annual Average, Summer period and Winter period.
 
